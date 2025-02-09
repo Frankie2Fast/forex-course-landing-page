@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Master Forex Trading - Join My Discord Course</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f9;
+      color: #333;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #007BFF;
+      color: #fff;
+      padding: 20px 0;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      margin: 10px 0 0;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background: #fff;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      border-radius: 8px;
+    }
+
+    h2 {
+      color: #007BFF;
+      margin-top: 0;
+    }
+
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    ul li {
+      background: #e9ecef;
+      margin: 10px 0;
+      padding: 10px;
+      border-radius: 5px;
+    }
+
+    .cta-button {
+      display: inline-block;
+      background: #28a745;
+      color: #fff;
+      padding: 15px 30px;
+      text-decoration: none;
+      border-radius: 5px;
+      font-size: 1.2rem;
+      margin: 20px 0;
+      transition: background 0.3s ease;
+    }
+
+    .cta-button:hover {
+      background: #218838;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #333;
+      color: #fff;
+      margin-top: 20px;
+    }
+
+    footer a {
+      color: #007BFF;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Master Forex Trading</h1>
+    <p>Join My Exclusive Discord Course and Start Your Journey to Financial Freedom!</p>
+  </header>
+
+  <div class="container">
+    <h2>Why Join This Course?</h2>
+    <p>Forex trading is one of the most powerful ways to grow your wealth, but it can be overwhelming without the right guidance. With [X years] of experience, I’ll teach you everything you need to know to succeed.</p>
+
+    <h2>What You’ll Get:</h2>
+    <ul>
+      <li>Step-by-step lessons for beginners and advanced traders</li>
+      <li>Live trading sessions with real-time market analysis</li>
+      <li>Proven strategies for consistent profits</li>
+      <li>Personalized feedback and support</li>
+      <li>Access to an exclusive community of traders</li>
+    </ul>
+
+    <h2>Who Is This For?</h2>
+    <p>Whether you’re a complete beginner or an experienced trader, this course will help you take your skills to the next level. If you’re ready to achieve financial independence, this is for you!</p>
+
+    <a href="[Insert Payment Link]" class="cta-button">Join Now and Start Learning!</a>
+  </div>
+
+  <footer>
+    <p>© 2023 [Your Name]. All rights reserved. | <a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
+  </footer>
+</body>
+</html>
